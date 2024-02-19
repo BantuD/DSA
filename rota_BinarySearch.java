@@ -48,7 +48,7 @@ public class Main
         }
         
         
-        return -1;    
+        return result;    
         
     }
 	public static void main(String[] args) {
